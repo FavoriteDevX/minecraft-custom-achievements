@@ -1,0 +1,30 @@
+{
+  "parent": "custom:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:bedrock"
+    },
+    "title": {
+      "text": "Leveled Up!"
+    },
+    "description": {
+      "text": "The impossible happened: You mined your very first Bedrock!"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_bedrock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bedrock"
+          }
+        ]
+      }
+    }
+  }
+}
