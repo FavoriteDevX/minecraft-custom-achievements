@@ -1,0 +1,22 @@
+Mojang Studios Open Source Project Notice & License
+
+This project is a non-commercial, community-made contribution and is not affiliated with, endorsed by, or approved by Mojang Studios or Microsoft. 
+
+1. COMPLIANCE WITH MOJANG TERMS
+By using, modifying, or distributing this software, you agree to comply with:
+- The Minecraft End User License Agreement (EULA): https://www.minecraft.net/eula
+- The Mojang Studios Brand and Asset Guidelines: https://www.minecraft.net/terms/branding-guidelines
+
+2. INTELLECTUAL PROPERTY NOTICE
+"Minecraft" is a trademark of Mojang Synergies AB. All game codes, assets, textures, sounds, and graphics belong to Mojang Studios and Microsoft. No copyright infringement is intended. 
+
+3. PROJECT LICENSE (MIT LICENSE / OPEN SOURCE)
+Subject to the terms above, the custom code and original assets created specifically for this repository are licensed under the MIT License:
+
+Copyright (c) 2026 Davi Schulze
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
